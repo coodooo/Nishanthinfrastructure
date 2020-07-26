@@ -442,10 +442,10 @@ ol {
 }
 
 .logo-area {
-	float: left;
-	display: inline-block;
-	background: #ffffff;
-	padding: 0px 10px 0px;
+    float: left;
+    display: inline-block;
+    background: #121212;
+    padding: 20px 60px 30px;
 }
 
 .phone-number {
@@ -591,9 +591,9 @@ ol {
 	font-weight: 700;
 	color: #fff;
 	letter-spacing: 1px;
-	-webkit-transition: all 0.4s;
-	-o-transition: all 0.4s;
-	transition: all 0.4s;
+	webkit-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
 }
 
 .hero-slider .owl-nav .owl-prev:hover,
